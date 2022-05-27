@@ -1,9 +1,8 @@
  ### Olá! Eu sou Jerônimo Lima🖐️
  
- 
 ✈️Atualmente trabalho com logística  
 💻Estudando HTML5, JavaScript e CSS
-
+🎼Amor pela música.
 
 ## Olá! Eu sou o Jerônimo Lima, estudante de conteúdo de programação e tecnologia!
   <a href="https://github.com/jeronimolimma">
@@ -30,5 +29,6 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/jer%C3%B4nimo-lima-4098b2158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
  </div>
