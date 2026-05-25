@@ -1,11 +1,11 @@
- ### Olá! Eu sou Jerônimo Lima🖐️
+ ### Olá! rx2,🖐️
  
  
-✈️Atualmente trabalho com logística  
-💻Estudando HTML5, JavaScript e CSS
-🎼Amor pela música.
+✈️Desenvolvendo soluções Logística
+💻Cursos e projetos sistêmicos
 
-## Olá! Eu sou o Jerônimo Lima, estudante de conteúdo de programação e tecnologia!
+
+## Olá! Vamos juntos com a rx2
   <a href="https://github.com/jeronimolimma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeronimolimma&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimolimma&layout=compact&langs_count=7&theme=gruvbox"/>
